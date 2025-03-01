@@ -1,0 +1,5 @@
+ContactID,CompanyID,FirstName,LastName,Street,City,State,Zip,IsMain,email,Phone
+1,1,Mark,Wood,"212,Anova","New York",US,303030,1,Na,125-658-5252
+2,2,Travish,Head,"452,Main Street",Melbourn,AT,323232,1,Na,785-986-5486
+3,3,Hasim,Amla,"785,House Street","Cap Town",SA,333333,1,Na,256-894-2364
+4,2,Dianne,Connor,"452,Wall Streer","New York",US,125412,1,Na,452-869-7854
